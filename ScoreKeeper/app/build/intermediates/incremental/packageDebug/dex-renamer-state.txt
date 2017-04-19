@@ -1,7 +1,0 @@
-#Fri Apr 14 19:19:50 CEST 2017
-base.0=C\:\\Users\\Cy\\AndroidStudioProjects\\ScoreKeeper\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0751d5d712cb2e9c98a9d9b4b7fd9a2f2a59a48e
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\Cy\\AndroidStudioProjects\\ScoreKeeper\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_af5ee5a92b5b924a7deb9a891494eb26dc9f24d6\\classes.dex
-base.1=C\:\\Users\\Cy\\AndroidStudioProjects\\ScoreKeeper\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_af5ee5a92b5b924a7deb9a891494eb26dc9f24d6
-file.0=C\:\\Users\\Cy\\AndroidStudioProjects\\ScoreKeeper\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0751d5d712cb2e9c98a9d9b4b7fd9a2f2a59a48e\\classes.dex
